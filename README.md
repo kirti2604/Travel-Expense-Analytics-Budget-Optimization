@@ -4,7 +4,7 @@
 
 This project analyzes government travel expense data to identify spending patterns, high-cost transactions, data quality issues, and budget optimization opportunities.
 
-The project combines data cleaning, exploratory data analysis, SQL analysis, and interactive Power BI dashboards to provide meaningful insights into travel spending and cost optimization.
+The project combines Python, SQL, Excel, and Power BI to perform data cleaning, exploratory data analysis, data validation, budget optimization, and interactive dashboard visualization.
 
 ---
 
@@ -16,8 +16,9 @@ The project combines data cleaning, exploratory data analysis, SQL analysis, and
 - Detect missing values, negative values, outliers, and anomalies
 - Validate reported expenses against calculated expenses
 - Identify high-cost travel transactions
-- Develop scenario-based budget optimization recommendations
-- Visualize key insights using interactive Power BI dashboards
+- Develop scenario-based budget optimization analysis
+- Create interactive Power BI dashboards
+- Generate meaningful business insights from travel expense data
 
 ---
 
